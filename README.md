@@ -29,3 +29,4 @@ This version will have a default song at a low speed, that will speed up with th
 - [3-lead electrode cable](https://plux.info/cables/226-3-lead-electrode-cable.html)
 - [Gelled Self-adhesive Disposable Ag/AgCl](https://plux.info/electrodes/59-pre-gelled-self-adhesive-disposable-agagcl-eletrodes.html)
 ### Algorithms
+There are two algorithms, one for the [Frequency](https://github.com/rotzila/music-muscle/tree/master/music-muscle-freq) and other for the [Song](https://github.com/rotzila/music-muscle/tree/master/music-muscle-song) version
