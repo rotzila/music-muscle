@@ -1,7 +1,6 @@
 #include <TimerOne.h>
 #include <EEPROM.h>
-#include "pitches.h" 
-#include "themes.h"
+
 
 int sensorPin = A0;   
 int speaker = 9;
@@ -91,9 +90,9 @@ void loop() {
     else if((diffButton==-1)&&(millis()-firstClick>=5000)){
     digitalWrite(led,LOW);
     
-    //delay(2000);
+    
     realState=1;
-    //firstClick=0;
+   
     endTime=millis();
     
   }
@@ -103,6 +102,9 @@ void loop() {
    
     if(value>=activation){  
       tone(speaker, 10*value, 5);
+    }
+    else{
+      digitalWrite(speaker,LOW);
     }
   }
     
