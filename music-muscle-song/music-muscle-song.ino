@@ -1,6 +1,7 @@
 #include <TimerOne.h>
 #include <EEPROM.h>
-
+#include "pitches.h" 
+#include "themes.h"
 
 int sensorPin = A0;   
 int speaker = 9;
