@@ -98,7 +98,7 @@ void loop() {
   }
   else{
     value=map(values.smooth,calibrValueMin,calibrValue,0,100);
-    activation=map(potenciValue,0,676,0,50);
+    activation=map(potenciValue,0,1024,0,50);
    
     if(value>=activation){  
       tone(speaker, 10*value, 5);
