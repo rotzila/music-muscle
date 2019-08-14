@@ -24,8 +24,8 @@ This version will have a default song at a low speed, that will speed up with th
 - [Groove Speaker](http://wiki.seeedstudio.com/Grove-Speaker/)
 - [Potenciometer](https://www.sparkfun.com/products/9806?_ga=2.258241545.2017274394.1565780560-1270259391.1560514473)
 - [Led](https://plux.info/barebone-actuators/19-light-emitting-diode-led.html?search_query=LED&results=32)
-- [Button](http://bitalino.com/datasheets/REVOLUTION_BTN_Sensor_Datasheet.pdf)
-- [EMG BITalino sensor](https://bitalino.com/datasheets/EMG_Sensor_Datasheet.pdf)
+- [Button](https://plux.info/barebone-sensors/15-pushbutton-btn.html?search_query=button&results=7)
+- [EMG BITalino sensor](https://plux.info/barebone-sensors/10-electrocardiography-ecg-sensor.html?search_query=emg+sensor&results=155)
 - [3-lead electrode cable](https://plux.info/cables/226-3-lead-electrode-cable.html)
 - [Gelled Self-adhesive Disposable Ag/AgCl](https://plux.info/electrodes/59-pre-gelled-self-adhesive-disposable-agagcl-eletrodes.html)
 ### Algorithms
