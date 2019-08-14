@@ -10,4 +10,22 @@ In this version the audio will be a frequency that will start at a low frequency
 This version will have a default song at a low speed, that will speed up with the muscular activity.
 ## What was used
 
+### Tools
+- 3D printer
+- Glue
+- Soldering iron
+- Solder
+### 3D printed parts
+- Bottom part
+- Top part
+- Button
 ### Hardware
+- µduino board
+- [Groove Speaker](http://wiki.seeedstudio.com/Grove-Speaker/)
+- [Potenciometer](https://www.sparkfun.com/products/9806?_ga=2.258241545.2017274394.1565780560-1270259391.1560514473)
+- [Led](https://plux.info/barebone-actuators/19-light-emitting-diode-led.html?search_query=LED&results=32)
+- [Button](http://bitalino.com/datasheets/REVOLUTION_BTN_Sensor_Datasheet.pdf)
+- [EMG BITalino sensor](https://bitalino.com/datasheets/EMG_Sensor_Datasheet.pdf)
+- [3-lead electrode cable](https://plux.info/cables/226-3-lead-electrode-cable.html)
+- [Gelled Self-adhesive Disposable Ag/AgCl](https://plux.info/electrodes/59-pre-gelled-self-adhesive-disposable-agagcl-eletrodes.html)
+### Algorithms
