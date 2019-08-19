@@ -32,7 +32,7 @@ Where the coming out, the cables are represented by red (+), black (-) and white
 
 This button being pressed for 2 seconds will activate the Calibration mode turning a LED that is activated when the calibration is activated. When There are 2 modes in this device, the Calibration mode and the Standart mode. After the calibration, the button need to be activated just with a click and the program will exit Calibration mode.
 There are various muscles that the EMG can work on, in the next image it is ilustrated an example of the EMG's electrodes placement.
-<img src=>
+<img src="https://github.com/rotzila/music-muscle/blob/master/images/emg_placement">
 
 ### Calibration
 
@@ -81,6 +81,8 @@ Here is the schematic used in this prototype. Instead of a arduino UNO it was us
 ### Algorithms
 
 There are two algorithms, one for the [Frequency](https://github.com/rotzila/music-muscle/tree/master/music-muscle-freq) and other for the [Song](https://github.com/rotzila/music-muscle/tree/master/music-muscle-song) version.
+To compare the values collected without any operations and after the smooth algorithm that is applied to all the value, it is represented in the next graphic.
+<img src="">
 
 ### 3D printed parts
 
