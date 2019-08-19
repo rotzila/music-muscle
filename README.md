@@ -82,4 +82,4 @@ There are two algorithms, one for the [Frequency](https://github.com/rotzila/mus
 
 ### 3D printed parts
 
-It was designed 3 parts, [top](https://github.com/rotzila/music-muscle/blob/master/box/top.stl), [bottom](https://github.com/rotzila/music-muscle/blob/master/box/bottom.stl) and a [button](https://github.com/rotzila/music-muscle/blob/master/box/button.stl), to encapsulate all the Hardwares used in this prototype.
+It was designed 3 parts, [top](https://github.com/rotzila/music-muscle/blob/master/box/top.stl), [bottom](https://github.com/rotzila/music-muscle/blob/master/box/bottom.stl) and a [button](https://github.com/rotzila/music-muscle/blob/master/box/button.stl), to encapsulate all the Hardware used in this prototype.
