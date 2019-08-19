@@ -66,7 +66,7 @@ This version will have a default song at a low speed, that will speed up with th
 - [µduino board](https://www.crowdsupply.com/uduino/uduino/updates/update-on-production-and-delivery)
 - [Groove Speaker](http://wiki.seeedstudio.com/Grove-Speaker/)
 - [Potenciometer](https://www.sparkfun.com/products/9806?_ga=2.258241545.2017274394.1565780560-1270259391.1560514473)
-- [Led](https://plux.info/barebone-actuators/19-light-emitting-diode-led.html?search_query=LED&results=32)
+- [LED](https://plux.info/barebone-actuators/19-light-emitting-diode-led.html?search_query=LED&results=32)
 - [Button](https://plux.info/barebone-sensors/15-pushbutton-btn.html?search_query=button&results=7)
 - [EMG BITalino sensor](https://plux.info/barebone-sensors/10-electrocardiography-ecg-sensor.html?search_query=emg+sensor&results=155)
 - [3-lead electrode cable](https://plux.info/cables/226-3-lead-electrode-cable.html)
@@ -82,7 +82,7 @@ Here is the schematic used in this prototype. Instead of a arduino UNO it was us
 
 There are two algorithms, one for the [Frequency](https://github.com/rotzila/music-muscle/tree/master/music-muscle-freq) and other for the [Song](https://github.com/rotzila/music-muscle/tree/master/music-muscle-song) version.
 To compare the values collected without any operations and after the smooth algorithm that is applied to all the value, it is represented in the next graphic.
-<img src="">
+<img src="https://github.com/rotzila/music-muscle/blob/master/images/raw_vs_smo.png">
 
 ### 3D printed parts
 
