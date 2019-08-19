@@ -2,13 +2,42 @@
 Music-Muscle is a dispositive that is responsive to muscular activity using electromyography (EMG). This dispositive have the main objective a responsive system to test patient’s strength and rehabilitation. There are two versions of the music-muscle, both react to the muscular activity, but have different responses.
 
 ## Tutorial (How to use)
+The next images show each part of the prototype and a further explanation of each one.
+<h1>Top</h1>
+<img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_image.jpg">
+
+- 1-Micro USB connection to BITalino
+
+This connection will provide the power needed to the prototype have energy and allow the visualization and a possibility to store       the values in the Open Signals for further analysis.
+
+- 2-Volume potentiometer
+
+With a screwdriver it is possible to regulate the volume produced by the speaker.
+
+- 3-Threshold potentiometer
+
+This potentiometer will delimit the value needed to be surpassed by the user. Usually a user in a rest state (after the calibration)   will have a value around 2/3, the threshold can be set from 0 to 50. However, bellow 2 the speaker will be offline, this is implemented to have a way to shutoff the speaker without turning off the device.
+
+- 4-Sensor cables
+
+Where the coming out, the cables are represented by red (+), black (-) and white(0) as a way to facilitate the colocation of each       electrode in the muscle.
+
+<h1>Bottom</h1>
+<img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_image_2.jpg">
+
+- 5-Calibration button
+
+This button being pressed for 2 seconds will activate the Calibration mode. When There are 2 modes in this device, the Calibration mode and the Standart mode. After the calibration, the button need to be activated just with a click and the program will exit Calibration mode.
+
 ### Calibration
-This dispositive have a calibration mode, this is needed due to each human having different values in the same bio sensor. This calibration mode is activated by pressing the button for 2 seconds, the LED in the bottom will light up meaning the calibration mode is activated. During this period the user must be in a rest state for approximately 5 seconds, after this period the user must try to do the maximum strength possible. Pressing the button will deactivate the calibration mode, but, now with a new range adapted to the user in question. This range will give a range from 0 to 100 using the minimum and the maximum value gathered during the calibration mode.
-In both versions if the potenciometer is at the lowest value, the speaker will stop working, just to have a way to turn off the speaker.
-## Music-Muscle-Frequency
+This dispositive have a calibration mode, this is needed due to each human having different values in the same bio sensor. This calibration mode is activated by pressing the button (5) for 2 seconds, the LED in the bottom will light up meaning the calibration mode is activated. During this period the user must be in a rest state for approximately 3 seconds, after this period the user must try to do the maximum strength possible. Pressing the button (5) will deactivate the calibration mode, but, now with a new range adapted to the user in question. This range will give a range from 0 to 100 using the minimum and the maximum value gathered during the calibration mode.
+
+### Music-Muscle-Frequency
 In this version the audio will be a frequency that will start at a low frequency, with more "strength" the muscle is exercing, higher the frequency will be.
-## Music-Muscle-Song
+
+### Music-Muscle-Song
 This version will have a default song at a low speed, that will speed up with the muscular activity.
+
 ## What was used
 
 ### Tools
@@ -21,7 +50,7 @@ This version will have a default song at a low speed, that will speed up with th
 - Top part
 - Button
 ### Hardware
-- µduino board
+- [µduino board](https://www.crowdsupply.com/uduino/uduino/updates/update-on-production-and-delivery)
 - [Groove Speaker](http://wiki.seeedstudio.com/Grove-Speaker/)
 - [Potenciometer](https://www.sparkfun.com/products/9806?_ga=2.258241545.2017274394.1565780560-1270259391.1560514473)
 - [Led](https://plux.info/barebone-actuators/19-light-emitting-diode-led.html?search_query=LED&results=32)
