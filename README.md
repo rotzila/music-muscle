@@ -1,6 +1,6 @@
 # Music-Muscle
 
-Music-Muscle is a dispositive that is responsive to muscular activity using electromyography (EMG). This dispositive have the main objective, being a responsive system to test patient’s strength and possibilitate rehabilitation. There are two versions of the music-muscle, both react to the muscular activity, but have different responses.
+Music-Muscle is a dispositive that is responsive to muscular activity using electromyography (EMG). The main obective of this dispositive is to have a responsive feedback to the EMG instead of just a graphical vizualization and values. There are two versions of the music-muscle, both react to the muscular activity, but have different responses.
 
 ## Tutorial (How to use)
 
