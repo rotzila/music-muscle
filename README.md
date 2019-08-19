@@ -6,7 +6,7 @@ Music-Muscle is a dispositive that is responsive to muscular activity using elec
 
 The next images show each part of the prototype and a further explanation for each one.
 
-<h1>Top</h1>
+<h3>Top</h3>
 <img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_image.jpg">
 
 - 1-Micro USB connection to BITalino
@@ -25,7 +25,7 @@ This potentiometer will delimit the value needed to be surpassed by the user. Us
 
 Where the coming out, the cables are represented by red (+), black (-) and white(0) as a way to facilitate the colocation of each       electrode in the muscle.
 
-<h1>Bottom</h1>
+<h3>Bottom</h3>
 <img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_image_2.jpg">
 
 - 5-Calibration button
