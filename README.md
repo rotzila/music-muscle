@@ -76,7 +76,8 @@ This version will have a default song at a low speed, that will speed up with th
 ### Schematic
 
 Here is the schematic used in this prototype. Instead of a arduino UNO it was used the µduino, the smallest version of arduinos. It is the same connections. [This link](https://www.crowdsupply.com/uduino/uduino/updates/pinout-and-more) will help you know where to connect each cable in the µduino board.
-<img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_schematic.png">
+The connection to the BITalino need to be made to the analog channle in the BITalino board.
+<img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_schematic_1.png">
 
 ### Algorithms
 
@@ -87,3 +88,11 @@ To compare the values collected without any operations and after the smooth algo
 ### 3D printed parts
 
 It was designed 3 parts, [top](https://github.com/rotzila/music-muscle/blob/master/box/top.stl), [bottom](https://github.com/rotzila/music-muscle/blob/master/box/bottom.stl) and a [button](https://github.com/rotzila/music-muscle/blob/master/box/button.stl), to encapsulate all the Hardware used in this prototype.
+
+## Acknowledgments
+
+This project was done at the IT - Instituto de Telecomunicações of Instituto Superior Técnico, as an intern with the supervision of Prof. Hugo Plácido da Silva.
+
+## References
+
+Pedro Miguel Russo. Development and Testing of Algorithms for Real-Time Feature Extraction from Biosignals. BSc work, Escola Superior de Tecnologia de Setúbal - Politécnico de Setúbal, 2019.
