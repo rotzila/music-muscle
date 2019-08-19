@@ -32,7 +32,7 @@ Where the coming out, the cables are represented by red (+), black (-) and white
 
 This button being pressed for 2 seconds will activate the Calibration mode turning a LED that is activated when the calibration is activated. When There are 2 modes in this device, the Calibration mode and the Standart mode. After the calibration, the button need to be activated just with a click and the program will exit Calibration mode.
 There are various muscles that the EMG can work on, in the next image it is ilustrated an example of the EMG's electrodes placement.
-<img src="https://github.com/rotzila/music-muscle/blob/master/images/emg_placement">
+<img src="https://github.com/rotzila/music-muscle/blob/master/images/emg_placement.jpg">
 
 ### Calibration
 
