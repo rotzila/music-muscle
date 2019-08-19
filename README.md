@@ -1,13 +1,13 @@
 # Music-Muscle
 
-Music-Muscle is a dispositive that is responsive to muscular activity using electromyography (EMG). The main obective of this dispositive is to have a responsive feedback to the EMG instead of just a graphical vizualization and values. There are two versions of the music-muscle, both react to the muscular activity, but have different responses.
+Music-Muscle is a device that is responsive to muscular activity using electromyography (EMG). The main obective of this dispositive is to have a responsive feedback to the EMG instead of just a graphical vizualization and values.Besides, the device can work in standalone, and allows the collection of the data to some softwares like [OpenSignals](https://bitalino.com/en/software). There are two versions of the music-muscle, both react to the muscular activity, but have different responses.
 
 ## Tutorial (How to use)
 
 The next images show each part of the prototype and a further explanation for each one.
 
 <h3>Top</h3>
-<img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_image.jpg">
+<img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_image_1.jpg">
 
 - 1-Micro USB connection to BITalino
 
@@ -23,14 +23,16 @@ This potentiometer will delimit the value needed to be surpassed by the user. Us
 
 - 4-Sensor cables
 
-Where the coming out, the cables are represented by red (+), black (-) and white(0) as a way to facilitate the colocation of each       electrode in the muscle.
+Where the coming out, the cables are represented by red (+), black (-) and white(Ref) as a way to facilitate the colocation of each       electrode in the muscle.
 
 <h3>Bottom</h3>
 <img src="https://github.com/rotzila/music-muscle/blob/master/images/prototype_image_2.jpg">
 
 - 5-Calibration button
 
-This button being pressed for 2 seconds will activate the Calibration mode. When There are 2 modes in this device, the Calibration mode and the Standart mode. After the calibration, the button need to be activated just with a click and the program will exit Calibration mode.
+This button being pressed for 2 seconds will activate the Calibration mode turning a LED that is activated when the calibration is activated. When There are 2 modes in this device, the Calibration mode and the Standart mode. After the calibration, the button need to be activated just with a click and the program will exit Calibration mode.
+There are various muscles that the EMG can work on, in the next image it is ilustrated an example of the EMG's electrodes placement.
+<img src=>
 
 ### Calibration
 
