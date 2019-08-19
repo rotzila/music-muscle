@@ -80,3 +80,6 @@ Here is the schematic used in this prototype. Instead of a arduino UNO it was us
 
 There are two algorithms, one for the [Frequency](https://github.com/rotzila/music-muscle/tree/master/music-muscle-freq) and other for the [Song](https://github.com/rotzila/music-muscle/tree/master/music-muscle-song) version.
 
+### 3D printed parts
+
+It was designed 3 parts, top, bottom and a button, to encapsulate all the Hardwares used in this prototype.
