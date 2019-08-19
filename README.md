@@ -96,4 +96,4 @@ This project was done at the IT - Instituto de Telecomunicações of Instituto S
 
 ## References
 
-Pedro Miguel Russo. Development and Testing of Algorithms for Real-Time Feature Extraction from Biosignals. BSc work, Escola Superior de Tecnologia de Setúbal - Politécnico de Setúbal, 2019.
+Pedro Miguel Russo. [Development and Testing of Algorithms for Real-Time Feature Extraction from Biosignals](https://github.com/rotzila/Real-Time-Feature-Extraction-from-Biosignals). BSc work, Escola Superior de Tecnologia de Setúbal - Politécnico de Setúbal, 2019.
