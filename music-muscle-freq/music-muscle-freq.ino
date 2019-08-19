@@ -100,7 +100,7 @@ void loop() {
     value=map(values.smooth,calibrValueMin,calibrValue,0,100);
     activation=map(potenciValue,0,1024,0,50);
    
-    if(value>=activation){  
+    if((value>=activation)&&(activation>=2)){
       tone(speaker, 10*value, 5);
     }
     else{
